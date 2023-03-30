@@ -8,4 +8,4 @@ HTML
 CSS and
 JavaScript
 
-The website is hosted here: <a href=" https://tamaratet.github.io/animated-navigation/">Here</a>
+The website is hosted here: <a href="https://tamaratet.github.io/animated-navigation/">Here</a>
